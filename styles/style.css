@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #96c528;
+    margin: 0;
+    padding: 20px;
+}
+
+#app {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 20px auto;
+}
+
+h1 {
+    color: #333;
+}
+
+#cocktail-container img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+#cocktail-container ul {
+    list-style-type: none;
+    padding: 0;
+}
